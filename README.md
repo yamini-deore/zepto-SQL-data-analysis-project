@@ -121,6 +121,6 @@ Import the dataset (convert to UTF-8 if necessary)
 Follow along with the YouTube video for full walkthrough. 👨‍💼
 
 👨‍💻 About the Author
-Hey, I’m Yamini Deore — a Data Analyst & Content Creator. I break down complex data topics into simple.
+Hey, I’m Yamini Deore — a Data Analyst. I break down complex data topics into simple.
 
 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo.
